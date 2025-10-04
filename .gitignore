@@ -1,0 +1,18 @@
+# Elixir and Erlang standard ignores
+/build/
+/deps/
+/doc/
+/ebin/
+/logs/
+/priv/static/
+.elixir_ls/
+*.beam
+erl_crash.dump
+
+# Archives
+*.ez
+*.tar.gz
+
+# OS-specific
+.DS_Store
+Thumbs.db
