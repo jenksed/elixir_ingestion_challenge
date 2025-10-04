@@ -1,7 +1,3 @@
-Perfect 👍 Let’s expand your challenge into a **step-by-step guide** where each module comes with a **short set of instructions** for what to do and what to think about. This way you can follow along like a lab exercise.
-
----
-
 # Project 1: Data Ingest and Reporting Engine
 
 ## Goal
